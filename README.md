@@ -7,9 +7,9 @@ __e-Mail__ 69558140@163.com
 
 代码详解请参见文内jupyter notebook和↓↓↓
 
-博客：http://blog.csdn.net/chengcheng1394/article/details/78820529
-
 知乎专栏：https://zhuanlan.zhihu.com/p/32078473
+
+博客：http://blog.csdn.net/chengcheng1394/article/details/78820529
 
 欢迎转发扩散 ^_^
 

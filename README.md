@@ -1,3 +1,4 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 # movie_recommender
 MovieLens based recommender system.使用MovieLens数据集训练的电影推荐系统。
 
@@ -152,3 +153,6 @@ With text cnn implement movies recommend:
 [2604 'Let it Come Down: The Life of Paul Bowles (1998)' 'Documentary']
 
 更多内容请参考代码，Enjoy！
+
+# 许可
+Licensed under the MIT License with the [`996ICU License`](https://github.com/996icu/996.ICU/blob/master/LICENSE).
